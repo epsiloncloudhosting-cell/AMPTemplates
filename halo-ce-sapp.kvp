@@ -1,7 +1,7 @@
 Meta.DisplayName=Halo CE SAPP
 Meta.Description=Halo Custom Edition Dedicated Server con SAPP
 Meta.Arch=x86_64
-Meta.Author=EpsilonCloud - Made with AMP Config Generator
+Meta.Author=epsiloncloudhosting-cell - Made with AMP Config Generator
 Meta.URL=
 Meta.MinAMPVersion=2.4.6.6
 Meta.SpecificDockerImage=
@@ -10,7 +10,7 @@ Meta.ContainerPolicy=Supported
 Meta.ContainerPolicyReason=
 Meta.Prerequsites=[]
 Meta.EndpointURIFormat=steam://connect/{ip}:{GenericModule.App.Ports.$SteamQueryPort}
-Meta.AppConfigId=73432c5e-ab55-41f3-a5c0-b647201841fe
+Meta.AppConfigId=8922b2e2-c890-4527-838c-3a15453b3ac4
 App.AdminMethod=STDIO
 App.HasReadableConsole=true
 App.HasWritableConsole=true
