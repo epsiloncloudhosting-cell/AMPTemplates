@@ -1,9 +1,1 @@
-{
-  "id": "haloceconfig",
-  "authors": ["epsiloncloudhosting-cell", "AMP Community"],
-  "origin": "https://github.com/epsiloncloudhosting-cell/AMPTemplates.git",
-  "url": "https://github.com/epsiloncloudhosting-cell/AMPTemplates",
-  "imagefile": "",
-  "prefix": "HALOCE",
-  "repotype": "AppTemplates"
-}
+
